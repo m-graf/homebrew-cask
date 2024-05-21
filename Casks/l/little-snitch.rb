@@ -1,8 +1,8 @@
-cask "little-snitch" do
+cask "little-snitchAT5.7" do
   version "5.7.6"
   sha256 "f0a9905f0f4222273febf4f1ae1a330770a064b7454583bd48e8152cc4bb30f8"
 
-  url "https://www.obdev.at/downloads/littlesnitch/LittleSnitch-#{version}.dmg"
+  url "https://www.obdev.at/downloads/littlesnitch/legacy/LittleSnitch-#{version}.dmg"
   name "Little Snitch"
   desc "Host-based application firewall"
   homepage "https://www.obdev.at/products/littlesnitch/index.html"
